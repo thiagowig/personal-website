@@ -457,3 +457,7 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+.circular--square {
+  border-radius: 50%;
+}
